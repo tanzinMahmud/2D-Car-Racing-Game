@@ -1,2 +1,2 @@
-# 2D-Car-Racing-Game-
+# 2D-Car-Racing-Game
 A desktop car racing game using 2D graphics.
